@@ -1,8 +1,8 @@
 # DC-DC-Boost-Converter
 
-**Duration:** Jan 2026 – Apr 2026 *(Update as applicable)*  
+**Duration:** Jan 2025 – Apr 2025
 **Domain:** Power Electronics  
-**Software:** MATLAB/Simulink (or LTspice/PSIM, if applicable)
+**Software:** MATLAB/Simulink 
 
 ---
 
